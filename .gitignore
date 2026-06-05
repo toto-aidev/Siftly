@@ -1,0 +1,26 @@
+# ビルド成果物
+build/
+*.app
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Xcode（将来 Xcode 化する場合に備えて）
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+*.xcuserstate
+*.moved-aside
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Packages/
+Package.resolved
+
+# その他
+*.pyc
+__pycache__/
+*.bak
+*.swp

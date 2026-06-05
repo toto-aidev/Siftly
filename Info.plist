@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Siftly</string>
+	<key>CFBundleDisplayName</key>
+	<string>Siftly</string>
+	<key>CFBundleExecutable</key>
+	<string>Siftly</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.toto.siftly</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.photography</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>「未整理」アルバムの写真を読み込み、選んだアルバムへ移動（追加と未整理からの削除）するために写真ライブラリにアクセスします。</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>選んだアルバムや新規アルバムに写真を追加するために使用します。</string>
+</dict>
+</plist>
