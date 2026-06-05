@@ -35,8 +35,8 @@ Apple Photos アプリ単体だと、複数の写真を別アルバムへ移動�
 このリポジトリは Xcode プロジェクトを持たず、`swiftc` で直接コンパイルする軽量構成です。Xcode のフルインストールは不要で、**Command Line Tools** だけで動きます。
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/siftly.git
-cd siftly
+git clone https://github.com/aitools-maker/Siftly.git
+cd Siftly
 ./build.sh                          # build/Siftly.app を生成
 open "build/Siftly.app"             # 起動
 ```
